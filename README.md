@@ -1,6 +1,6 @@
-## Hi there, I'm Chosen Vincent! 👋
+## Hi there, I'm Chosen! 👋
 
-I'm a **Software Developer** and **Technical Writer** who is passionate about building web applications and creating valuable technical content.
+A **Software Developer** and **Technical Writer**. I am passionate about building web applications and creating valuable technical content.
 
 ### About Me
 - I work with **HTML, CSS, JavaScript, TypeScript, React, Next.js, and more**.
@@ -28,7 +28,7 @@ I'm a **Software Developer** and **Technical Writer** who is passionate about bu
   <a href="https://www.linkedin.com/in/chosenvincent1/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://twitter.com/your-twitter](https://twitter.com/your-twitter](https://x.com/ChosenVincent1">
+  <a href="https://x.com/ChosenVincent1">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
 </p>
